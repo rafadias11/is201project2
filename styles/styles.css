@@ -1,0 +1,43 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+#jng{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mid{
+    outline-style: groove;
+    color: firebrick;
+}
+#bot{
+    opacity: initial;
+}
+.emphasizedText{
+    font-style: italic;
+    color: red;
+    
+}
+#header{
+    position: sticky;
+    color: blueviolet;
+}
+#middle{
+    position: sticky;
+    color: cornflowerblue;
+}
+#bottom{
+    position:static;
+    color: darkgoldenrod;
+}
+body{
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+}
